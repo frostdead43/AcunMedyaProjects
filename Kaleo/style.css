@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(45deg, rgb(209, 2, 2), rgb(46, 43, 43));
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    background-color: aliceblue;
+    margin: 6rem;
+    font-size: 1.3rem;
+    padding: 10rem;
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+ol {
+    list-style: circle;
+    
+}
+
+
+img {
+    width: 280px;
+    height: 280px;
+    border-radius: 15px;
+    margin-top: -250px;
+    margin-left: 40rem;
+}
+
+audio {
+    margin-top: 2rem;
+}
+
+a {
+    text-decoration: none;
+}

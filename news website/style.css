@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(228, 225, 220, 0.781);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main-h1 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.news {
+    border: 6px solid rgb(209, 190, 190);
+    margin: 5rem 15rem 5rem 15rem;
+    padding:1.5rem 2rem 1.5rem 2rem;
+    border-radius: 4px;
+    font-size: 1.1rem;
+}
+
+
+h2 {
+font-size: 0.9rem;
+}
+
+
+.news {
+    text-align: center;
+    font-style: italic;
+}
+
+.news img{
+    width: 850px;
+    height: 500px; 
+ }
+
+ul {
+    list-style: none;
+}
+

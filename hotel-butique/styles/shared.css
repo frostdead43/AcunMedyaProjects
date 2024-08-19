@@ -1,0 +1,55 @@
+body {
+    font-family: "Oswald",sans-serif;
+    background-color: rgb(247, 219, 224);
+    height: 100%;
+}
+a {
+    text-decoration: none;
+}
+
+#logo {
+    font-family: "Matemasie", sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-top: 2rem;
+
+}
+
+header ul {
+    list-style: none;
+    margin-right: 4rem;
+}
+
+header li {
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    position: static;
+}
+
+
+#bg {
+  width: auto;
+  height: auto;
+  margin-left: 30rem;
+}
+
+#history {
+    margin: auto;
+    padding: 1rem;
+    border: 5px solid rgb(247, 219, 224);
+}
+
+#history h1 {
+    font-family: "Matemasie", sans-serif;
+    background-color: rgb(red, green, blue);
+    font-size: 1.5rem;
+
+}
+
+#history p {
+    font-size: 1rem;
+    font-style: italic;
+}

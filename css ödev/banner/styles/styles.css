@@ -1,0 +1,53 @@
+
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    align-items: center;
+}
+
+
+.hero {
+    display: inline-block;
+    margin-top: 80px;
+    padding: 100px;
+    margin-left: 100px;
+}
+
+.hero h6 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+}
+
+
+.hero h3 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: left;
+}
+
+.hero a {
+    display: inline-flex;
+    background-color: rgba(13, 110, 253, 1);
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 20px;
+    gap: 20px;
+    border-radius: 32px;
+    font-weight: 600;
+
+}
+
+
+img {
+    justify-content: center;
+    margin-top: 70px;
+    position: absolute;
+    width: 20%;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(252, 9, 150);
+}
+
+.container {
+    position: relative;
+    display: flex;             
+    justify-content: center;    
+    align-items: center;
+    height: 1200px;   
+}
+
+img {
+    position: absolute;
+    opacity: 1;
+}
+
+.group-red {
+    z-index: 0;
+}
+
+.group-yellow {
+    margin-left: 160px;
+}
+
+.group-blue {
+    margin-left: 80px;
+}
+
+.group-red:hover {
+    z-index: 1;
+}
